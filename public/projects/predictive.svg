@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="760" viewBox="0 0 600 760">
+  <rect width="600" height="760" fill="#0a0a0c"/>
+  <g stroke="#1c1c22" stroke-width="1">
+    <path d="M0 95h600M0 190h600M0 285h600M0 380h600M0 475h600M0 570h600M0 665h600"/>
+    <path d="M75 0v760M150 0v760M225 0v760M300 0v760M375 0v760M450 0v760M525 0v760"/>
+  </g>
+  <text x="40" y="70" font-family="monospace" font-size="16" fill="#8a8a8a" letter-spacing="6">RUL // TURBOFAN</text>
+  <polyline points="40,600 110,560 180,575 250,500 320,470 390,380 460,320 530,180"
+    fill="none" stroke="#ff2d9a" stroke-width="4"/>
+  <polyline points="40,620 110,600 180,610 250,560 320,540 390,470 460,430 530,330"
+    fill="none" stroke="#f4f4f4" stroke-width="2" stroke-dasharray="6 6" opacity="0.5"/>
+  <g fill="#ff2d9a">
+    <circle cx="250" cy="500" r="7"/>
+    <circle cx="390" cy="380" r="7"/>
+    <circle cx="530" cy="180" r="9"/>
+  </g>
+  <circle cx="530" cy="180" r="20" fill="none" stroke="#ff2d9a" opacity="0.5"/>
+  <text x="40" y="712" font-family="monospace" font-size="26" fill="#f4f4f4" font-weight="bold">PREDICTIVE</text>
+  <text x="40" y="742" font-family="monospace" font-size="26" fill="#ff2d9a" font-weight="bold">MAINTENANCE_AI</text>
+</svg>

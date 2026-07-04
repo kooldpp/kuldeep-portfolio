@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="760" viewBox="0 0 600 760">
+  <rect width="600" height="760" fill="#0a0a0c"/>
+  <g stroke="#1c1c22" stroke-width="1">
+    <path d="M0 95h600M0 190h600M0 285h600M0 380h600M0 475h600M0 570h600M0 665h600"/>
+    <path d="M75 0v760M150 0v760M225 0v760M300 0v760M375 0v760M450 0v760M525 0v760"/>
+  </g>
+  <text x="40" y="70" font-family="monospace" font-size="16" fill="#8a8a8a" letter-spacing="6">ML // PIPELINE</text>
+  <g stroke="#5a5a5a" stroke-width="1.5">
+    <path d="M120 250 L300 210 M120 250 L300 330 M120 250 L300 450"/>
+    <path d="M120 400 L300 210 M120 400 L300 330 M120 400 L300 450"/>
+    <path d="M120 550 L300 330 M120 550 L300 450 M120 550 L300 570"/>
+    <path d="M300 210 L480 300 M300 330 L480 300 M300 450 L480 300 M300 570 L480 300"/>
+    <path d="M300 210 L480 480 M300 330 L480 480 M300 450 L480 480 M300 570 L480 480"/>
+  </g>
+  <g fill="#f4f4f4">
+    <circle cx="120" cy="250" r="16"/>
+    <circle cx="120" cy="400" r="16"/>
+    <circle cx="120" cy="550" r="16"/>
+  </g>
+  <g fill="#8a8a8a">
+    <circle cx="300" cy="210" r="14"/>
+    <circle cx="300" cy="330" r="14"/>
+    <circle cx="300" cy="450" r="14"/>
+    <circle cx="300" cy="570" r="14"/>
+  </g>
+  <g fill="#ff2d9a">
+    <circle cx="480" cy="300" r="20"/>
+    <circle cx="480" cy="480" r="20"/>
+  </g>
+  <text x="40" y="712" font-family="monospace" font-size="26" fill="#f4f4f4" font-weight="bold">MACHINE</text>
+  <text x="40" y="742" font-family="monospace" font-size="26" fill="#ff2d9a" font-weight="bold">LEARNING_LAB</text>
+</svg>
